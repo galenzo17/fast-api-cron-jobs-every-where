@@ -1,6 +1,6 @@
 # FastAPI Cron Job API
 
-Hello! My name is Agustín, and I created this project to learn FastAPI and understand how to manage cron jobs programmatically.
+Hello! My name is Agustín, and I created this project to learn FastAPI and FastAPI 😄 .
 
 ## Setup
 
